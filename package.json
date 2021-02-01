@@ -1,6 +1,5 @@
 {
     "name": "frontend",
-    "homepage": "http://wesbdss.github.io/FrontEnd-FullStack-shawandpartners",
     "version": "0.1.0",
     "private": true,
     "dependencies": {

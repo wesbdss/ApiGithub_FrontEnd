@@ -9,7 +9,6 @@ const useStyles = makeStyles({
     root: {
         display: 'flex',
         textAlign: "center",
-        fontSize: "1px !important !important",
         justifyContent: "space-around",
         '& #id': {
             color: "#869ccb",
@@ -20,8 +19,25 @@ const useStyles = makeStyles({
         }
         ,
         '& #url': {
-            width: "60%"
+            width: "60%",
         }
+    },
+    '@media only screen and (max-width:480px)':{
+
+        root: {
+            '& #id': {
+                display:"none",
+            },
+            '& #name': {
+                display:"none",
+            }
+            ,
+            '& #url': {
+                fontSize:"10px",
+                overflowX:"auto"
+            }
+        }
+
     }
 })
 

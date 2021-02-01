@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "//wesbdss.github.io/FrontEnd-FullStack-shawandpartners/static/css/main.8485323e.chunk.css",
+    "main.js": "//wesbdss.github.io/FrontEnd-FullStack-shawandpartners/static/js/main.b0962423.chunk.js",
+    "main.js.map": "//wesbdss.github.io/FrontEnd-FullStack-shawandpartners/static/js/main.b0962423.chunk.js.map",
+    "runtime-main.js": "//wesbdss.github.io/FrontEnd-FullStack-shawandpartners/static/js/runtime-main.c24160b4.js",
+    "runtime-main.js.map": "//wesbdss.github.io/FrontEnd-FullStack-shawandpartners/static/js/runtime-main.c24160b4.js.map",
+    "static/js/2.5bf20b04.chunk.js": "//wesbdss.github.io/FrontEnd-FullStack-shawandpartners/static/js/2.5bf20b04.chunk.js",
+    "static/js/2.5bf20b04.chunk.js.map": "//wesbdss.github.io/FrontEnd-FullStack-shawandpartners/static/js/2.5bf20b04.chunk.js.map",
+    "static/js/3.799e4f6e.chunk.js": "//wesbdss.github.io/FrontEnd-FullStack-shawandpartners/static/js/3.799e4f6e.chunk.js",
+    "static/js/3.799e4f6e.chunk.js.map": "//wesbdss.github.io/FrontEnd-FullStack-shawandpartners/static/js/3.799e4f6e.chunk.js.map",
+    "index.html": "//wesbdss.github.io/FrontEnd-FullStack-shawandpartners/index.html",
+    "static/css/main.8485323e.chunk.css.map": "//wesbdss.github.io/FrontEnd-FullStack-shawandpartners/static/css/main.8485323e.chunk.css.map",
+    "static/js/2.5bf20b04.chunk.js.LICENSE.txt": "//wesbdss.github.io/FrontEnd-FullStack-shawandpartners/static/js/2.5bf20b04.chunk.js.LICENSE.txt",
+    "static/media/github.6e54273a.png": "//wesbdss.github.io/FrontEnd-FullStack-shawandpartners/static/media/github.6e54273a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c24160b4.js",
+    "static/js/2.5bf20b04.chunk.js",
+    "static/css/main.8485323e.chunk.css",
+    "static/js/main.b0962423.chunk.js"
+  ]
+}
